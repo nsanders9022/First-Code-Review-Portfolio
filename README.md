@@ -15,7 +15,7 @@ _This website tells the view information about the author and provides descripti
 
 ### GitHub Pages link
 
-[Click here]() to access the GitHub Page
+[Click here](https://nsanders9022.github.io/portfolio/) to access the GitHub Page
 
 ### License
 
