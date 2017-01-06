@@ -1,7 +1,21 @@
+body{
+  background-color: #c3d3d4;
+}
+
 .jumbotron h1, .jumbotron p{
   text-align: center;
 }
 
 .active{
-  background-color: #008da4;
+  background-color: #75b0b2;
+}
+
+.projects-tab{
+  background-color: #90bdbf;
+  height: 100px;
+  border-radius: 5px 10px 5px 10px;
+  text-align: center;
+  padding: 5%;
+  font-size:24px;
+  border: 3px solid #acc6c7;
 }
