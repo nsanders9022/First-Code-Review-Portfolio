@@ -6,12 +6,12 @@
 
 ## Description
 
-_This website tells the view information about the author and provides descriptions and links to the author's projects on GitHub_
+This website tells the view information about the author and provides descriptions and links to the author's projects on GitHub
 
 ## Setup/Installation Requirements
 
-* _Clone the repository from GitHub_
-* _Open the index in a web browser of your choice_
+* Clone the repository from GitHub
+* Open the index in a web browser of your choice
 
 ### GitHub Pages link
 
