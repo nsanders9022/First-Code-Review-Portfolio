@@ -2,6 +2,12 @@ body{
   background-color: #c3d3d4;
 }
 
+.container{
+  background-color: #a7c1be;
+  width:80%;
+
+}
+
 .banner {
   height: 150px;
   background-image:url(https://programminghq.files.wordpress.com/2013/05/binary-code-big.jpg);
@@ -12,10 +18,10 @@ body{
   text-align: center;
 }
 
-/*.nav{
+.top-nav{
   background-color: #acc6c7;
-  margin:0;
-}*/
+  margin-bottom: 20px;
+}
 
 .active{
   background-color: #75b0b2;
@@ -42,6 +48,13 @@ body{
 
 #thanks{
   color: red;
+}
+
+#basel{
+  width:250px;
+  float:right;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 
 .projects ul:first-child {
