@@ -6,6 +6,11 @@ body{
   text-align: center;
 }
 
+/*.nav{
+  background-color: #acc6c7;
+  margin:0;
+}*/
+
 .active{
   background-color: #75b0b2;
 }
@@ -15,7 +20,7 @@ body{
   height: 100px;
   border-radius: 5px 10px 5px 10px;
   text-align: center;
-  padding: 5%;
+  padding: 10%;
   font-size:24px;
   border: 3px solid #acc6c7;
 }
