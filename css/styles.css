@@ -37,7 +37,11 @@ body{
 
 #me-image{
   height:250px;
-  float: left;
+
+}
+
+#thanks{
+  color: red;
 }
 
 .projects ul:first-child {
