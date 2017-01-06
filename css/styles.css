@@ -3,7 +3,7 @@ body{
 }
 
 .banner {
-  height: 100px;
+  height: 150px;
   background-image:url(https://programminghq.files.wordpress.com/2013/05/binary-code-big.jpg);
   margin-bottom:30px;
 }
@@ -40,7 +40,7 @@ body{
   float: left;
 }
 
-.projects ul li {
+.projects ul:first-child {
   list-style: none;
-  font-variant: small-caps;
+
 }
