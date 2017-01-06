@@ -1,3 +1,7 @@
 .jumbotron h1, .jumbotron p{
   text-align: center;
 }
+
+.active{
+  background-color: #008da4;
+}
