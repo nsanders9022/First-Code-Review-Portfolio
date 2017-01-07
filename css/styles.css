@@ -8,9 +8,6 @@ body{
   padding:20px 100px;
   margin-top:100px;
   border-radius: 10% 15%;
-}
-
-.box{
   background-color:	#dfdfdf;
 }
 
@@ -28,7 +25,7 @@ body{
 
 .banner-home h1, .banner-home h3{
   text-align: center;
-  text-shadow: 2px 2px #a7c1be;
+  text-shadow: 3px 3px #a7c1be;
   font-size: 800%;
   color: white;
   padding-top: 30px;
@@ -48,12 +45,20 @@ body{
 .btn{
   background-color: #90bdbf;
   height: 100px;
-  border-radius: 5px 10px 5px 10px;
+  border-radius: 15px 10px 15px 10px;
   text-align: center;
-  padding: 7%;
   font-size:24px;
   border: 3px solid #acc6c7;
   width: 100%;
+  margin: 5px;
+}
+
+.btn a{
+  font-size: 16px;
+}
+
+.column p{
+  margin: 5px;
 }
 
 h1 {
@@ -69,13 +74,8 @@ a {
   font-family: arial, sans-serif;
 }
 
-.btn a{
-  font-size: 16px;
-}
-
 #me-image{
   height:250px;
-
 }
 
 #thanks{
