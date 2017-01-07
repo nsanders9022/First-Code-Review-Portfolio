@@ -3,11 +3,15 @@ body{
 }
 
 .container{
-  background-color: #a7c1be;  width:90%;
+  width:90%;
   height:1500px;
   padding:20px 100px;
   margin-top:100px;
   border-radius: 10% 15%;
+}
+
+.box{
+  background-color:	#dfdfdf;
 }
 
 .banner {
@@ -17,7 +21,7 @@ body{
 }
 
 .banner-home {
-  height: 500px;
+  height: 400px;
   background-image:url(https://programminghq.files.wordpress.com/2013/05/binary-code-big.jpg);
   margin-bottom:30px;
 }
@@ -28,6 +32,12 @@ body{
   font-size: 800%;
   color: white;
   padding-top: 30px;
+}
+
+.column{
+  float:left;
+  background-color: #dfdfdf;
+  width:25%
 }
 
 .top-nav{
@@ -43,6 +53,7 @@ body{
   padding: 7%;
   font-size:24px;
   border: 3px solid #acc6c7;
+  width: 100%;
 }
 
 h1 {
