@@ -1,6 +1,36 @@
+body {
+  background-color: LightGray;
+}
+
 .banner {
   background-color: teal;
-  height: 800px;
+  height: 750px;
   width:auto;
   border-bottom: 10px solid black;
+}
+
+.container {
+  width: 90%;
+}
+
+.navigation {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 30px;
+}
+
+.nav {
+  float: left;
+}
+
+.nav-link {
+  font-size: 24px;
+  color: black;
+
+}
+
+
+
+#about {
+  padding: 0px 60px 00px 60px;
 }
